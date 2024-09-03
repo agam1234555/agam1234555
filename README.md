@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/agam1234555/githubbanner/main/github-header-image.png?token=GHSAT0AAAAAACW7KZ4F5Z2I7XQG7XOHWZ72ZWXLI7A" alt="Banner Image" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
-
+<p align="center">
+  <img src="https://i.imgur.com/359RWJO.png" alt="GitHub Banner" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Agam Singh Bhatia</h1>
