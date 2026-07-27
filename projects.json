@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apparel Retail E-Commerce Suite",
+    "repo": "agam1234555/hari-collection-saas",
+    "description": "Full-stack e-commerce system for a brick-and-mortar retail store: cross-platform mobile shopping app, web admin dashboard, and serverless backend",
+    "tags": ["TypeScript", "React Native", "Firebase", "Razorpay", "Node.js"]
+  },
+  {
+    "name": "BuildFeed",
+    "repo": "agam1234555/buildfeed",
+    "description": "Developer discovery platform hosting 200+ GitHub-verified profiles with a real-time contribution leaderboard",
+    "tags": ["Next.js", "Express.js", "Supabase", "PostgreSQL"]
+  },
+  {
+    "name": "Multimodal Parkinson's Disease Detection",
+    "repo": "agam1234555/AI-PARKINSON-DETECTION",
+    "description": "ML screening system fusing webcam eye-tracking with voice biomarkers - 90% accuracy (ROC-AUC 0.910) on voice, 83.3% on eye model",
+    "tags": ["Python", "Scikit-learn", "OpenCV", "SHAP", "Streamlit"]
+  }
+]
