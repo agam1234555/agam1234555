@@ -30,10 +30,10 @@
 <rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
 <clipPath id="avatarClip">
-  <rect x="56" y="130" width="360" height="400" rx="12"/>
+  <rect x="46" y="140" width="380" height="380" rx="14"/>
 </clipPath>
-<image href="https://pbs.twimg.com/profile_images/1805894095338086400/1vaDk0xT.jpg" x="56" y="130" width="360" height="400" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-<rect x="56" y="130" width="360" height="400" rx="12" fill="none" stroke="rgba(34,211,238,0.5)" stroke-width="2"/>
+<image href="avatar.jpg" x="46" y="140" width="380" height="380" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+<rect x="46" y="140" width="380" height="380" rx="14" fill="none" stroke="#A78BFA" stroke-width="2" opacity="0.8"/>
 <path d="M 50 84 L 36 84 L 36 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
 <path d="M 422 84 L 436 84 L 436 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
 <path d="M 50 576 L 36 576 L 36 562" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
