@@ -3,5 +3,7 @@ out/
 avatar.png
 generate_snake.py
 update_svgs.py
+generate_dither_portrait.py
+apply_dithered_portrait_to_svgs.py
 __pycache__/
 .DS_Store
