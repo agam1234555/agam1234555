@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agam1234555/agam1234555/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agam1234555/agam1234555/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/agam1234555/agam1234555/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=1" />
+  <img alt="Snake eating my contributions" src="snake-light.svg?v=1" />
 </picture>
 
 </div>
