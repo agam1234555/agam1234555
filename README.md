@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
-  <img alt="Agam Singh Bhatia" src="light.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+  <img alt="Agam Singh Bhatia" src="light.svg?v=3">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
