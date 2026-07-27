@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Agam Singh Bhatia" src="light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
+  <img alt="Agam Singh Bhatia" src="light.svg?v=2">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -47,9 +47,9 @@
 <!-- ===== PROJECTS PANEL ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="projects.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg" />
-  <img width="100%" src="projects.svg" alt="Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=2" />
+  <img width="100%" src="projects.svg?v=2" alt="Projects" />
 </picture>
 </div>
 
