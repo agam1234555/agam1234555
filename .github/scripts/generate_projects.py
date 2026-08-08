@@ -97,7 +97,7 @@ def wrap_text(s, max_chars, max_lines=2):
             if len(lines) == max_lines: break
     if cur and len(lines) < max_lines: lines.append(cur)
     if len(lines) == max_lines and words and " ".join(lines).count(" ") + 1 < len(words):
-        lines[-1] = lines[-1][:max_chars-1].rstrip() + "…"
+        lines[-1] = lines[-1][:max_chars-3].rstrip() + "..."
     return lines
 
 def donut_segments(languages, cx, cy, r, begin):
@@ -257,6 +257,6 @@ if __name__ == "__main__":
         set_theme(theme)
         svg = build(projects, theme)
         path = os.path.join(outdir, fname)
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
         print(f"wrote {path}: {theme}, {len(projects)} projects, {len(svg)//1024}KB")

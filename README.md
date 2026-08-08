@@ -47,9 +47,9 @@
 <!-- ===== PROJECTS PANEL ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=5" />
-  <img width="100%" src="projects.svg?v=5" alt="Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=6" />
+  <img width="100%" src="projects.svg?v=6" alt="Projects" />
 </picture>
 </div>
 
