@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=5" />
-  <img alt="Snake eating my contributions" src="snake-light.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=6">
+  <img alt="Snake eating my contributions" src="snake-light.svg?v=6">
 </picture>
 
 </div>
@@ -47,9 +47,9 @@
 <!-- ===== PROJECTS PANEL ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=6" />
-  <img width="100%" src="projects.svg?v=6" alt="Projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=6">
+  <img width="100%" src="projects.svg?v=6" alt="Projects">
 </picture>
 </div>
 
