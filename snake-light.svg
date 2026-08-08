@@ -4,10 +4,10 @@
     @keyframes snakeMove {
       0% { transform: translate(0px, 0px); }
       20% { transform: translate(140px, 0px); }
-      40% { transform: translate(140px, 42px); }
-      60% { transform: translate(350px, 42px); }
-      80% { transform: translate(350px, 84px); }
-      100% { transform: translate(650px, 84px); }
+      40% { transform: translate(350px, 42px); }
+      60% { transform: translate(560px, 42px); }
+      80% { transform: translate(714px, 14px); }
+      100% { transform: translate(728px, 28px); }
     }
     .snake-head { fill: #7C3AED; animation: snakeMove 12s linear infinite; }
     .snake-body { fill: #0891B2; opacity: 0.8; animation: snakeMove 12s linear infinite; }
@@ -371,15 +371,16 @@
     <rect x="700" y="56" width="11" height="11" rx="2" fill="#EBEDF0" />
     <rect x="700" y="70" width="11" height="11" rx="2" fill="#EBEDF0" />
     <rect x="700" y="84" width="11" height="11" rx="2" fill="#EBEDF0" />
-    <rect x="714" y="0" width="11" height="11" rx="2" fill="#EBEDF0" />
-    <rect x="714" y="14" width="11" height="11" rx="2" fill="#EBEDF0" />
+    <rect x="714" y="0" width="11" height="11" rx="2" fill="#A78BFA" />
+    <rect x="714" y="14" width="11" height="11" rx="2" fill="#C084FC" />
     <rect x="714" y="28" width="11" height="11" rx="2" fill="#C084FC" />
-    <rect x="714" y="42" width="11" height="11" rx="2" fill="#EBEDF0" />
-    <rect x="714" y="56" width="11" height="11" rx="2" fill="#EBEDF0" />
+    <rect x="714" y="42" width="11" height="11" rx="2" fill="#0891B2" />
+    <rect x="714" y="56" width="11" height="11" rx="2" fill="#A78BFA" />
     <rect x="714" y="70" width="11" height="11" rx="2" fill="#C084FC" />
     <rect x="714" y="84" width="11" height="11" rx="2" fill="#C084FC" />
     <rect x="728" y="0" width="11" height="11" rx="2" fill="#0891B2" />
     <rect x="728" y="14" width="11" height="11" rx="2" fill="#0891B2" />
+    <rect x="728" y="28" width="11" height="11" rx="2" fill="#A78BFA" />
     <!-- Animated Snake -->
     <rect x="42" y="0" width="11" height="11" rx="3" class="snake-body" />
     <rect x="28" y="0" width="11" height="11" rx="3" class="snake-body" />
