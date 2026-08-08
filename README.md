@@ -34,13 +34,21 @@
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/agam1234555/agam1234555/main/snake-dark.svg" alt="Snake eating contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=20260809">
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=20260809">
+  <img alt="Snake eating my contributions" src="snake-light.svg?v=20260809">
+</picture>
 </div>
 
 <!-- ===== END SNAKE ===== -->
 <!-- ===== PROJECTS PANEL ===== -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/agam1234555/agam1234555/main/projects.svg" alt="Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=20260809">
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=20260809">
+  <img width="100%" src="projects.svg?v=20260809" alt="Projects">
+</picture>
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
