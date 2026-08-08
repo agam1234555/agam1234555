@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=6">
-  <img alt="Agam Singh Bhatia" src="light.svg?v=6">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=7">
+  <img alt="Agam Singh Bhatia" src="light.svg?v=7">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -35,9 +35,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=20260809">
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=20260809">
-  <img alt="Snake eating my contributions" src="snake-light.svg?v=20260809">
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg?v=7">
+  <img alt="Snake eating my contributions" src="snake-light.svg?v=7">
 </picture>
 </div>
 
@@ -45,9 +45,9 @@
 <!-- ===== PROJECTS PANEL ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=20260809">
-  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=20260809">
-  <img width="100%" src="projects.svg?v=20260809" alt="Projects">
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="projects-light.svg?v=7">
+  <img width="100%" src="projects.svg?v=7" alt="Projects">
 </picture>
 </div>
 
